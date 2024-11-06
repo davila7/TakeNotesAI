@@ -1,0 +1,1 @@
+APP to Take notes with AI
